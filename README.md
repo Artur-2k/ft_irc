@@ -39,12 +39,6 @@ The project follows a **layered architecture**, separating responsibilities to i
 - **Connection management:** `poll()` to prevent blocking.
 - **Use of Boost and external libraries is prohibited.**
 
-## Next Steps
-
-- Implement support for bots and file transfers.
-- Improve logging and server monitoring.
-- Add automated tests.
-
 ## References
 
 - [RFC 1459 - Internet Relay Chat Protocol](https://datatracker.ietf.org/doc/html/rfc1459)
